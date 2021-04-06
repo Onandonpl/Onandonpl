@@ -3,7 +3,7 @@
 My name is Robert. I'm a Frontend Developer from Gdańsk, Poland.
 
 ### :wrench: Technology stack
-* HTML5 and CSS /w SCSS
+* HTML5 and CSS/SCSS
 * JavaScript
 * ReactJs
 * NodeJs
